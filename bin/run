@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+
+lib = File.expand_path('../../lib', __FILE__)
+$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+
+require 'bundler/setup'
+require 'data_manager'
+require 'file_manager'
+require 'HTTPNet'
+require 'compare_data'
+
+hash = CompareData.new.compare_data
+
+require 'pry'
+
+Pry::ColorPrinter.pp(hash)
