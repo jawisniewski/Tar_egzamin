@@ -10,6 +10,3 @@ Stworzony przez:<br>
 3.[Jacek Sasin](https://github.com/jsasin)
 
 
-
-
-[![Build Status](https://travis-ci.org/jsasin/Tar_egzamin.svg?branch=master)](https://travis-ci.org/jsasin/Tar_egzamin)
