@@ -5,6 +5,8 @@
 [![Code Climate](https://codeclimate.com/github/jsasin/Tar_egzamin/badges/gpa.svg)](https://codeclimate.com/github/jsasin/Tar_egzamin)
 
 [![Test Coverage](https://codeclimate.com/github/jsasin/Tar_egzamin/badges/coverage.svg)](https://codeclimate.com/github/jsasin/Tar_egzamin/coverage)
+
+<br>
 Stworzony przez:<br>
 1.[Kamil Lubiejewski](https://github.com/Lubu909)<br>
 2.[Aliaksandr Novik](https://github.com/AliaksandrN)<br>
