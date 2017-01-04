@@ -7,6 +7,7 @@ group :test do
   gem 'rspec-collection_matchers', '~> 1.1.2'
   gem 'simplecov', '~> 0.12.0', require: false
   gem 'rake'
+  gem "codeclimate-test-reporter", "~> 1.0.0"
 end
 
 gem 'pry', '~> 0.10.4'
