@@ -6,6 +6,8 @@
 
 [![Test Coverage](https://codeclimate.com/github/jsasin/Tar_egzamin/badges/coverage.svg)](https://codeclimate.com/github/jsasin/Tar_egzamin/coverage)
 
+[![Issue Count](https://codeclimate.com/github/jsasin/Tar_egzamin/badges/issue_count.svg)](https://codeclimate.com/github/jsasin/Tar_egzamin)
+
 <br>
 Stworzony przez:<br>
 1.[Kamil Lubiejewski](https://github.com/Lubu909)<br>
